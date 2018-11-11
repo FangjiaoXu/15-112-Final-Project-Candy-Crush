@@ -7,6 +7,6 @@ Features: The board for this game will have 8*8, 64 grids. There will be six col
 
 User Interface: Player will first see a button saying “begin”. After clicking on the button, the player can see a board. Besides the board, there will be three boxes showing time left, current point and the point get from the last move. When the time is up, the player will see their score and a line telling him or her game is over. 
 
-By November 25th, the basic user interface will be implemented. A board is showed. The game can be played by this time although some details still need to be worked on. It means that the candies can be moved and removed and new candies can appear at this time. 
+By November 25th,the game can be played although some details still need to be worked on. It means that the candies can be moved and removed and new candies can appear at this time. 
 
-On December 6th, the user interface will be improved. Three boxes showing time and score will be added. The interface before and after game will be added.
+On December 6th, the user interface will be implemented. Three boxes showing time and score will be added. The interface before and after game will be added.
